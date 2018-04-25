@@ -1,0 +1,60 @@
+Neighborhood Name,Geo Entity ID,"Jail Incarceration - Rate- per 100,000 adults 2014 (95% CL)",Life Expectancy - Years 2003-2012,Poverty - Percent 2012-16,Poverty - Rank 2011-15,Pre-1950 Homes - Percent 2011-15,Race and Ethnicity (ICE 2) - ICE 2011-15,Rent Burdened Households - Percent 2012-16
+Bronx: Belmont and East Tremont (CD6),206,220.0,76.7,42.7,3,46.9,-0.4,60.3
+Bronx: Fordham and University Heights (CD5),205,230.0,78.9,41.6,3,67.2,-0.4,65.0
+Bronx: Highbridge and Concourse (CD4),204,163.0,77.0,37.5,3,61.2,-0.4,60.9
+Bronx: Hunts Point and Longwood (CD2),202,234.0,77.6,42.6,3,49.0,-0.5,57.9
+Bronx: Kingsbridge Heights and Bedford (CD7),207,135.0,78.7,32.3,3,70.2,-0.3,61.2
+Bronx: Morris Park and Bronxdale (CD11),211,93.0,79.1,20.5,2,50.5,-0.1,54.6
+Bronx: Morrisania and Crotona (CD3),203,371.0,75.3,42.7,3,46.9,-0.4,60.3
+Bronx: Mott Haven and Melrose (CD1),201,305.0,76.1,42.6,3,49.0,-0.5,57.9
+Bronx: Parkchester and Soundview (CD9),209,129.0,78.7,29.3,3,46.1,-0.3,55.3
+Bronx: Riverdale and Fieldston (CD8),208,28.0,80.5,18.2,2,45.5,0.0,51.8
+Bronx: Throgs Neck and Co-op City (CD10),210,32.0,80.5,12.0,1,27.4,0.0,45.1
+Bronx: Williamsbridge and Baychester (CD12),212,127.0,80.2,19.4,2,47.1,-0.2,57.0
+Brooklyn: Bay Ridge and Dyker Heights (CD10),310,30.0,81.5,16.3,2,70.3,0.2,48.6
+Brooklyn: Bedford Stuyvesant (CD3),303,244.0,75.1,31.7,3,64.9,-0.2,53.0
+Brooklyn: Bensonhurst (CD11),311,23.0,82.5,17.9,2,68.8,0.0,52.1
+Brooklyn: Borough Park (CD12),312,26.0,83.5,32.7,3,65.2,0.1,63.7
+Brooklyn: Brownsville (CD16),316,348.0,74.1,36.0,3,42.4,-0.4,57.2
+Brooklyn: Bushwick (CD4),304,142.0,78.8,28.6,3,64.9,-0.1,55.5
+Brooklyn: Coney Island (CD13),313,87.0,79.7,25.2,3,35.4,0.0,55.5
+Brooklyn: Crown Heights and Prospect Heights (CD8),308,169.0,77.5,25.1,3,73.3,-0.2,50.3
+Brooklyn: East Flatbush (CD17),317,112.0,82.1,16.9,2,71.2,-0.3,54.2
+Brooklyn: East New York and Starrett City (CD5),305,181.0,77.7,29.2,3,42.5,-0.3,51.9
+Brooklyn: Flatbush and Midwood (CD14),314,80.0,81.5,21.0,2,68.0,0.0,56.5
+Brooklyn: Flatlands and Canarsie (CD18),318,67.0,81.3,11.5,1,35.7,0.0,50.5
+Brooklyn: Fort Greene and Brooklyn Heights (CD2),302,75.0,79.4,18.5,2,59.9,0.1,39.0
+Brooklyn: Greenpoint and Williamsburg (CD1),301,70.0,80.2,25.4,3,54.3,0.2,48.2
+Brooklyn: Park Slope and Carroll Gardens (CD6),306,64.0,80.3,9.6,1,77.0,0.4,36.7
+Brooklyn: Sheepshead Bay (CD15),315,33.0,82.5,16.6,2,53.4,0.2,53.2
+Brooklyn: South Crown Heights and Lefferts Gardens (CD9),309,105.0,80.0,21.0,2,73.6,-0.2,54.8
+Brooklyn: Sunset Park (CD7),307,55.0,81.6,29.4,3,72.8,-0.1,57.2
+Manhattan: Central Harlem (CD10),110,336.0,75.1,28.7,3,45.3,-0.3,47.8
+Manhattan: Clinton and Chelsea (CD4),104,73.0,82.0,12.8,1,44.4,0.3,41.4
+Manhattan: East Harlem (CD11),111,302.0,76.0,33.8,3,32.7,-0.3,47.6
+Manhattan: Financial District (CD1),101,15.0,85.4,7.5,1,54.9,0.4,37.9
+Manhattan: Greenwich Village and Soho (CD2),102,19.0,84.3,7.5,1,54.9,0.4,37.9
+Manhattan: Lower East Side and Chinatown (CD3),103,117.0,80.9,25.8,3,54.2,-0.1,47.6
+Manhattan: Midtown (CD5),105,53.0,82.9,12.8,1,44.4,0.3,41.4
+Manhattan: Morningside Heights and Hamilton Heights (CD9),109,206.0,80.2,26.0,3,72.6,-0.1,50.6
+Manhattan: Stuyvesant Town and Turtle Bay (CD6),106,26.0,85.3,8.9,1,38.4,0.4,41.6
+Manhattan: Upper East Side (CD8),108,15.0,85.0,6.7,1,39.1,0.5,41.4
+Manhattan: Upper West Side (CD7),107,46.0,83.8,9.9,1,60.5,0.4,40.0
+Manhattan: Washington Heights and Inwood (CD12),112,117.0,83.2,25.2,2,77.2,-0.1,52.7
+Queens: Bayside and Little Neck (CD11),411,12.0,84.1,7.5,1,37.4,0.2,46.2
+Queens: Elmhurst and Corona (CD4),404,52.0,84.1,20.8,2,39.0,-0.1,61.6
+Queens: Flushing and Whitestone (CD7),407,24.0,83.6,16.4,2,31.4,-0.1,56.8
+Queens: Hillcrest and Fresh Meadows (CD8),408,34.0,83.3,14.1,1,38.1,0.0,54.0
+Queens: Jackson Heights (CD3),403,64.0,83.7,18.9,2,49.9,0.0,59.4
+Queens: Jamaica and Hollis (CD12),412,159.0,79.4,14.8,1,44.8,-0.2,56.1
+Queens: Kew Gardens and Woodhaven (CD9),409,66.0,82.2,15.1,2,66.0,0.0,54.7
+Queens: Long Island City and Astoria (CD1),401,44.0,82.2,16.5,2,57.2,0.1,46.9
+Queens: Queens Village (CD13),413,5.0,82.2,8.8,1,48.1,0.0,49.7
+Queens: Rego Park and Forest Hills (CD6),406,12.0,84.0,11.8,1,45.8,0.2,49.5
+Queens: Ridgewood and Maspeth (CD5),405,38.0,81.0,12.5,1,66.3,0.2,46.2
+Queens: Rockaway and Broad Channel (CD14),414,88.0,75.9,19.2,2,30.8,0.0,52.7
+Queens: South Ozone Park and Howard Beach (CD10),410,70.0,81.2,13.7,1,49.0,0.0,55.8
+Queens: Woodside and Sunnyside (CD2),402,31.0,83.9,13.8,1,54.0,0.1,51.2
+Staten Island: South Beach and Willowbrook (CD2),502,43.0,80.3,10.5,1,16.6,0.3,51.7
+Staten Island: St. George and Stapleton (CD1),501,110.0,78.2,20.4,2,40.9,0.1,50.8
+Staten Island: Tottenville and Great Kills (CD3),503,25.0,81.0,7.3,1,10.5,0.4,41.6
